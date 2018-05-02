@@ -1,0 +1,2 @@
+# StringCalculatorKata
+Coading Kata 
